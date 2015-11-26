@@ -1,0 +1,19 @@
+{
+	"name": "website-cms",
+	"version": "0.0.1",
+	"private": false,
+	"dependencies": {
+		"ejs": "latest",
+		"keystone": "latest",
+		"underscore": "latest",
+		"mongoose": "latest",
+		"express": "latest"
+	},
+	"engines": {
+		"node": "4.2.2",
+		"npm": "2.14.7"
+	},
+	"scripts": {
+		"start": "web.js"
+	}
+}
