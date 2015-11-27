@@ -15,6 +15,8 @@ keystone.init({
 	'less': 'public',
 	'static': ['public'],
 	
+	'port': 3002,
+	
 	'views': 'templates/views',
 	'view engine': 'html',
 	
